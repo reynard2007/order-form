@@ -1,0 +1,20 @@
+.wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+
+  @media only screen and (min-width: 1280px) {
+    flex-direction: row;
+  }
+}
+
+.imageSection {
+  @media only screen and (min-width: 1280px) {
+    margin-right: 3rem;
+  }
+}
+
+.configSection {
+  flex: 1;
+}

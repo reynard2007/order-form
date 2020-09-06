@@ -1,0 +1,701 @@
+{
+  "id": 4604544024636,
+  "title": "Square",
+  "handle": "square",
+  "description": "This is a test product for assessment in the Product Configurator test.",
+  "published_at": "2020-07-22T21:39:22-04:00",
+  "created_at": "2020-07-22T21:39:19-04:00",
+  "vendor": "createurdemo",
+  "type": "",
+  "tags": [],
+  "price": 400,
+  "price_min": 400,
+  "price_max": 1200,
+  "available": true,
+  "price_varies": true,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 32365373947964,
+      "title": "Large / Red",
+      "option1": "Large",
+      "option2": "Red",
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 14884493295676,
+        "product_id": 4604544024636,
+        "position": 2,
+        "created_at": "2020-07-22T21:44:06-04:00",
+        "updated_at": "2020-07-22T21:44:06-04:00",
+        "alt": null,
+        "width": 500,
+        "height": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/red.png?v=1595468646",
+        "variant_ids": [
+          32365373947964,
+          32365374046268,
+          32365374177340,
+          32365374275644
+        ]
+      },
+      "available": true,
+      "name": "Square - Large / Red",
+      "public_title": "Large / Red",
+      "options": ["Large", "Red"],
+      "price": 1200,
+      "weight": 0,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "",
+      "featured_media": {
+        "alt": null,
+        "id": 7057845649468,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1,
+          "height": 500,
+          "width": 500,
+          "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/red.png?v=1595468646"
+        }
+      }
+    },
+    {
+      "id": 32365373980732,
+      "title": "Large / Blue",
+      "option1": "Large",
+      "option2": "Blue",
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 14884493557820,
+        "product_id": 4604544024636,
+        "position": 3,
+        "created_at": "2020-07-22T21:44:09-04:00",
+        "updated_at": "2020-07-22T21:44:09-04:00",
+        "alt": null,
+        "width": 500,
+        "height": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/blue.png?v=1595468649",
+        "variant_ids": [
+          32365373980732,
+          32365374079036,
+          32365374210108,
+          32365374308412
+        ]
+      },
+      "available": true,
+      "name": "Square - Large / Blue",
+      "public_title": "Large / Blue",
+      "options": ["Large", "Blue"],
+      "price": 1200,
+      "weight": 0,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "",
+      "featured_media": {
+        "alt": null,
+        "id": 7057845682236,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1,
+          "height": 500,
+          "width": 500,
+          "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/blue.png?v=1595468649"
+        }
+      }
+    },
+    {
+      "id": 32365374013500,
+      "title": "Large / Green",
+      "option1": "Large",
+      "option2": "Green",
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 14884495163452,
+        "product_id": 4604544024636,
+        "position": 10,
+        "created_at": "2020-07-22T21:46:00-04:00",
+        "updated_at": "2020-07-22T21:46:00-04:00",
+        "alt": null,
+        "width": 500,
+        "height": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/green.png?v=1595468760",
+        "variant_ids": [32365374013500, 32365374242876, 32365374341180]
+      },
+      "available": true,
+      "name": "Square - Large / Green",
+      "public_title": "Large / Green",
+      "options": ["Large", "Green"],
+      "price": 1200,
+      "weight": 0,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "",
+      "featured_media": {
+        "alt": null,
+        "id": 7057847287868,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 1,
+          "height": 500,
+          "width": 500,
+          "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/green.png?v=1595468760"
+        }
+      }
+    },
+    {
+      "id": 32365374046268,
+      "title": "Medium / Red",
+      "option1": "Medium",
+      "option2": "Red",
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 14884493295676,
+        "product_id": 4604544024636,
+        "position": 2,
+        "created_at": "2020-07-22T21:44:06-04:00",
+        "updated_at": "2020-07-22T21:44:06-04:00",
+        "alt": null,
+        "width": 500,
+        "height": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/red.png?v=1595468646",
+        "variant_ids": [
+          32365373947964,
+          32365374046268,
+          32365374177340,
+          32365374275644
+        ]
+      },
+      "available": false,
+      "name": "Square - Medium / Red",
+      "public_title": "Medium / Red",
+      "options": ["Medium", "Red"],
+      "price": 1000,
+      "weight": 0,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "",
+      "featured_media": {
+        "alt": null,
+        "id": 7057845649468,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1,
+          "height": 500,
+          "width": 500,
+          "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/red.png?v=1595468646"
+        }
+      }
+    },
+    {
+      "id": 32365374079036,
+      "title": "Medium / Blue",
+      "option1": "Medium",
+      "option2": "Blue",
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 14884493557820,
+        "product_id": 4604544024636,
+        "position": 3,
+        "created_at": "2020-07-22T21:44:09-04:00",
+        "updated_at": "2020-07-22T21:44:09-04:00",
+        "alt": null,
+        "width": 500,
+        "height": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/blue.png?v=1595468649",
+        "variant_ids": [
+          32365373980732,
+          32365374079036,
+          32365374210108,
+          32365374308412
+        ]
+      },
+      "available": true,
+      "name": "Square - Medium / Blue",
+      "public_title": "Medium / Blue",
+      "options": ["Medium", "Blue"],
+      "price": 1000,
+      "weight": 0,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "",
+      "featured_media": {
+        "alt": null,
+        "id": 7057845682236,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1,
+          "height": 500,
+          "width": 500,
+          "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/blue.png?v=1595468649"
+        }
+      }
+    },
+    {
+      "id": 32365374177340,
+      "title": "Small / Red",
+      "option1": "Small",
+      "option2": "Red",
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 14884493295676,
+        "product_id": 4604544024636,
+        "position": 2,
+        "created_at": "2020-07-22T21:44:06-04:00",
+        "updated_at": "2020-07-22T21:44:06-04:00",
+        "alt": null,
+        "width": 500,
+        "height": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/red.png?v=1595468646",
+        "variant_ids": [
+          32365373947964,
+          32365374046268,
+          32365374177340,
+          32365374275644
+        ]
+      },
+      "available": true,
+      "name": "Square - Small / Red",
+      "public_title": "Small / Red",
+      "options": ["Small", "Red"],
+      "price": 900,
+      "weight": 0,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "",
+      "featured_media": {
+        "alt": null,
+        "id": 7057845649468,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1,
+          "height": 500,
+          "width": 500,
+          "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/red.png?v=1595468646"
+        }
+      }
+    },
+    {
+      "id": 32365374210108,
+      "title": "Small / Blue",
+      "option1": "Small",
+      "option2": "Blue",
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 14884493557820,
+        "product_id": 4604544024636,
+        "position": 3,
+        "created_at": "2020-07-22T21:44:09-04:00",
+        "updated_at": "2020-07-22T21:44:09-04:00",
+        "alt": null,
+        "width": 500,
+        "height": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/blue.png?v=1595468649",
+        "variant_ids": [
+          32365373980732,
+          32365374079036,
+          32365374210108,
+          32365374308412
+        ]
+      },
+      "available": true,
+      "name": "Square - Small / Blue",
+      "public_title": "Small / Blue",
+      "options": ["Small", "Blue"],
+      "price": 900,
+      "weight": 0,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "",
+      "featured_media": {
+        "alt": null,
+        "id": 7057845682236,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1,
+          "height": 500,
+          "width": 500,
+          "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/blue.png?v=1595468649"
+        }
+      }
+    },
+    {
+      "id": 32365374242876,
+      "title": "Small / Green",
+      "option1": "Small",
+      "option2": "Green",
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 14884495163452,
+        "product_id": 4604544024636,
+        "position": 10,
+        "created_at": "2020-07-22T21:46:00-04:00",
+        "updated_at": "2020-07-22T21:46:00-04:00",
+        "alt": null,
+        "width": 500,
+        "height": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/green.png?v=1595468760",
+        "variant_ids": [32365374013500, 32365374242876, 32365374341180]
+      },
+      "available": true,
+      "name": "Square - Small / Green",
+      "public_title": "Small / Green",
+      "options": ["Small", "Green"],
+      "price": 900,
+      "weight": 0,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "",
+      "featured_media": {
+        "alt": null,
+        "id": 7057847287868,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 1,
+          "height": 500,
+          "width": 500,
+          "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/green.png?v=1595468760"
+        }
+      }
+    },
+    {
+      "id": 32365374275644,
+      "title": "Extra Small / Red",
+      "option1": "Extra Small",
+      "option2": "Red",
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 14884493295676,
+        "product_id": 4604544024636,
+        "position": 2,
+        "created_at": "2020-07-22T21:44:06-04:00",
+        "updated_at": "2020-07-22T21:44:06-04:00",
+        "alt": null,
+        "width": 500,
+        "height": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/red.png?v=1595468646",
+        "variant_ids": [
+          32365373947964,
+          32365374046268,
+          32365374177340,
+          32365374275644
+        ]
+      },
+      "available": false,
+      "name": "Square - Extra Small / Red",
+      "public_title": "Extra Small / Red",
+      "options": ["Extra Small", "Red"],
+      "price": 500,
+      "weight": 0,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "",
+      "featured_media": {
+        "alt": null,
+        "id": 7057845649468,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1,
+          "height": 500,
+          "width": 500,
+          "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/red.png?v=1595468646"
+        }
+      }
+    },
+    {
+      "id": 32365374308412,
+      "title": "Extra Small / Blue",
+      "option1": "Extra Small",
+      "option2": "Blue",
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 14884493557820,
+        "product_id": 4604544024636,
+        "position": 3,
+        "created_at": "2020-07-22T21:44:09-04:00",
+        "updated_at": "2020-07-22T21:44:09-04:00",
+        "alt": null,
+        "width": 500,
+        "height": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/blue.png?v=1595468649",
+        "variant_ids": [
+          32365373980732,
+          32365374079036,
+          32365374210108,
+          32365374308412
+        ]
+      },
+      "available": true,
+      "name": "Square - Extra Small / Blue",
+      "public_title": "Extra Small / Blue",
+      "options": ["Extra Small", "Blue"],
+      "price": 500,
+      "weight": 0,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "",
+      "featured_media": {
+        "alt": null,
+        "id": 7057845682236,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1,
+          "height": 500,
+          "width": 500,
+          "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/blue.png?v=1595468649"
+        }
+      }
+    },
+    {
+      "id": 32365374341180,
+      "title": "Extra Small / Green",
+      "option1": "Extra Small",
+      "option2": "Green",
+      "option3": null,
+      "sku": "",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 14884495163452,
+        "product_id": 4604544024636,
+        "position": 10,
+        "created_at": "2020-07-22T21:46:00-04:00",
+        "updated_at": "2020-07-22T21:46:00-04:00",
+        "alt": null,
+        "width": 500,
+        "height": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/green.png?v=1595468760",
+        "variant_ids": [32365374013500, 32365374242876, 32365374341180]
+      },
+      "available": true,
+      "name": "Square - Extra Small / Green",
+      "public_title": "Extra Small / Green",
+      "options": ["Extra Small", "Green"],
+      "price": 400,
+      "weight": 0,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "",
+      "featured_media": {
+        "alt": null,
+        "id": 7057847287868,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 1,
+          "height": 500,
+          "width": 500,
+          "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/green.png?v=1595468760"
+        }
+      }
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/0064/7312/1857/products/grey.png?v=1595468646",
+    "//cdn.shopify.com/s/files/1/0064/7312/1857/products/red.png?v=1595468646",
+    "//cdn.shopify.com/s/files/1/0064/7312/1857/products/blue.png?v=1595468649",
+    "//cdn.shopify.com/s/files/1/0064/7312/1857/products/red_add62fd0-e260-404d-8105-ae6cc2e4911e.png?v=1595468657",
+    "//cdn.shopify.com/s/files/1/0064/7312/1857/products/blue_505a68ae-97f3-4fea-a120-dbd5dc3e5915.png?v=1595468667",
+    "//cdn.shopify.com/s/files/1/0064/7312/1857/products/red_c7ea4e45-d399-4f77-a0c8-117f9ac6f946.png?v=1595468682",
+    "//cdn.shopify.com/s/files/1/0064/7312/1857/products/blue_e4fa51c7-c83a-42f3-a92b-e8b767d79fb5.png?v=1595468684",
+    "//cdn.shopify.com/s/files/1/0064/7312/1857/products/red_cc1fb13b-f1dd-4d81-917b-619d09a43630.png?v=1595468694",
+    "//cdn.shopify.com/s/files/1/0064/7312/1857/products/blue_8ddec376-e1ed-4784-87cf-723daa57f476.png?v=1595468696",
+    "//cdn.shopify.com/s/files/1/0064/7312/1857/products/green.png?v=1595468760"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/0064/7312/1857/products/grey.png?v=1595468646",
+  "options": ["Size", "Color"],
+  "media": [
+    {
+      "alt": null,
+      "id": 7057845190716,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 500,
+        "width": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/grey.png?v=1595468637"
+      },
+      "aspect_ratio": 1,
+      "height": 500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/grey.png?v=1595468637",
+      "width": 500
+    },
+    {
+      "alt": null,
+      "id": 7057845649468,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 500,
+        "width": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/red.png?v=1595468646"
+      },
+      "aspect_ratio": 1,
+      "height": 500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/red.png?v=1595468646",
+      "width": 500
+    },
+    {
+      "alt": null,
+      "id": 7057845682236,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 500,
+        "width": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/blue.png?v=1595468649"
+      },
+      "aspect_ratio": 1,
+      "height": 500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/blue.png?v=1595468649",
+      "width": 500
+    },
+    {
+      "alt": null,
+      "id": 7057845780540,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 500,
+        "width": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/red_add62fd0-e260-404d-8105-ae6cc2e4911e.png?v=1595468657"
+      },
+      "aspect_ratio": 1,
+      "height": 500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/red_add62fd0-e260-404d-8105-ae6cc2e4911e.png?v=1595468657",
+      "width": 500
+    },
+    {
+      "alt": null,
+      "id": 7057845846076,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 500,
+        "width": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/blue_505a68ae-97f3-4fea-a120-dbd5dc3e5915.png?v=1595468667"
+      },
+      "aspect_ratio": 1,
+      "height": 500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/blue_505a68ae-97f3-4fea-a120-dbd5dc3e5915.png?v=1595468667",
+      "width": 500
+    },
+    {
+      "alt": null,
+      "id": 7057846042684,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 500,
+        "width": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/red_c7ea4e45-d399-4f77-a0c8-117f9ac6f946.png?v=1595468682"
+      },
+      "aspect_ratio": 1,
+      "height": 500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/red_c7ea4e45-d399-4f77-a0c8-117f9ac6f946.png?v=1595468682",
+      "width": 500
+    },
+    {
+      "alt": null,
+      "id": 7057846075452,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 500,
+        "width": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/blue_e4fa51c7-c83a-42f3-a92b-e8b767d79fb5.png?v=1595468684"
+      },
+      "aspect_ratio": 1,
+      "height": 500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/blue_e4fa51c7-c83a-42f3-a92b-e8b767d79fb5.png?v=1595468684",
+      "width": 500
+    },
+    {
+      "alt": null,
+      "id": 7057846140988,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 500,
+        "width": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/red_cc1fb13b-f1dd-4d81-917b-619d09a43630.png?v=1595468694"
+      },
+      "aspect_ratio": 1,
+      "height": 500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/red_cc1fb13b-f1dd-4d81-917b-619d09a43630.png?v=1595468694",
+      "width": 500
+    },
+    {
+      "alt": null,
+      "id": 7057846206524,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 500,
+        "width": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/blue_8ddec376-e1ed-4784-87cf-723daa57f476.png?v=1595468696"
+      },
+      "aspect_ratio": 1,
+      "height": 500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/blue_8ddec376-e1ed-4784-87cf-723daa57f476.png?v=1595468696",
+      "width": 500
+    },
+    {
+      "alt": null,
+      "id": 7057847287868,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 500,
+        "width": 500,
+        "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/green.png?v=1595468760"
+      },
+      "aspect_ratio": 1,
+      "height": 500,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0064/7312/1857/products/green.png?v=1595468760",
+      "width": 500
+    }
+  ],
+  "content": "This is a test product for assessment in the Product Configurator test."
+}
