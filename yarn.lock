@@ -1709,7 +1709,7 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-select@^3.0.19":
+"@types/react-select@3.0.19":
   version "3.0.19"
   resolved "https://registry.yarnpkg.com/@types/react-select/-/react-select-3.0.19.tgz#f73b04b8113451b0597df8a8315f9bf8ce03eb44"
   integrity sha512-d+6qtfFXZeIOAABlVL1e50RZn8ctOABE4tFDxM6KW4lKuXgTTgLVrSik5AX9XjBjV7N80FtS6GTN/WeoXL9Jww==
@@ -9134,11 +9134,6 @@ react-is@^16.12.0, react-is@^16.7.0, react-is@^16.8.1, react-is@^16.8.4:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
-
-react-query@2.15.1:
-  version "2.15.1"
-  resolved "https://registry.yarnpkg.com/react-query/-/react-query-2.15.1.tgz#0aa456c3488ec58193c74d6c62aee0ca8516c1d1"
-  integrity sha512-QsdxAxT/dj2RckrJQJQtlhol9Qp7Zuq9EitdWs9I8Y5bcueuAc/RgL+uwA/CXQ1Q9ikskyipr2dX1SgW1xwXNA==
 
 react-scripts@3.4.3:
   version "3.4.3"
